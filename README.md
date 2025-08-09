@@ -13,7 +13,7 @@ The repository is organized as follows:
 
 ## Features
 
-- **3D Convolutional Neural Network**: Utilizes a 3D CNN to process volumetric MRI data for accurate age prediction.
+- **3D Convolutional Neural Network**: Utilizes a sliced-2D CNN (Pseudo 3D) to process volumetric MRI data for accurate age prediction.
 - **Data Preprocessing**: Includes scripts for preprocessing MRI scans to ensure consistency and quality.
 - **Evaluation Metrics**: Provides tools to assess model performance using standard metrics.
 
